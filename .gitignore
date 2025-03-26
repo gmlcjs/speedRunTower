@@ -9,3 +9,6 @@
 !/UserSettings/
 !.gitattributes
 !.gitignore
+
+# Ignore all files in /Assets/Scripts/Secret/
+Assets/Scripts/Secret/*
