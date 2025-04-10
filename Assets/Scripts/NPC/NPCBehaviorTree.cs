@@ -29,7 +29,7 @@ public class Selector : Node
     }
 }
 
-// 🌟 순차 노드 (Sequence) - 모든 노드가 성공해야 성공 (AND 로직)
+// 🌟 순차 노드 (Sequence) - 모든 노드가 성공해야 성공 (AND 로직)   
 public class Sequence : Node
 {
     private List<Node> children = new List<Node>(); // 🌟 자식 노드 리스트
