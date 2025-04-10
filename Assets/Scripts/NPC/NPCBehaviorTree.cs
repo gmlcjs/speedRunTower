@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// 🌟 모든 행동 트리 노드의 기본 클래스 (추상 클래스)
+// 🌟 모든 행동 트리 노드의 기본 클래스 (추상 클래스) 
 public abstract class Node
 {
     // 🌟 행동 트리를 실행하는 추상 메서드 (각 노드에서 구현)
